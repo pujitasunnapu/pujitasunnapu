@@ -1,5 +1,6 @@
 ## 🌟 About Me  
 Hi, I'm Pujita 👋
+<br>
 I’m a passionate **data enthusiast** with a strong foundation in **Data Analysis, BI tools, Machine Learning, Deep Learning, and Natural Language Processing (NLP)**.  
 Currently a **Data Analyst**, but my journey doesn’t stop there. I’m actively learning and moving towards **Data Science, Generative AI, and Agentic AI**.  
 
